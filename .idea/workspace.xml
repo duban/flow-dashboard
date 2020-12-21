@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a33ff27f-9ae0-4c18-8433-b86fc40b4995" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/fe/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/fe/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fe/src/api/calling.js" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/api/calling.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fe/src/components/HeaderSearch/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/components/HeaderSearch/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fe/src/layout/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/layout/components/Navbar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fe/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fe/src/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/settings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fe/src/views/call-list/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/views/call-list/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fe/src/views/dashboard/admin/components/BoxCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/views/dashboard/admin/components/BoxCard.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fe/src/views/dashboard/admin/components/PanelGroup.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/views/dashboard/admin/components/PanelGroup.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fe/src/views/dashboard/admin/components/PieChart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/views/dashboard/admin/components/PieChart.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fe/src/views/dashboard/admin/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/views/dashboard/admin/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fe/src/views/violation/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/views/violation/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fe/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/fe/vue.config.js" afterDir="false" />
-    </list>
+    <list default="true" id="a33ff27f-9ae0-4c18-8433-b86fc40b4995" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/fe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lx4TbRSPqn1rkMS9XzJMwmjxgV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -48,7 +34,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608525416308</updated>
-      <workItem from="1608525417661" duration="371000" />
+      <workItem from="1608525417661" duration="980000" />
     </task>
     <servers />
   </component>
