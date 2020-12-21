@@ -1,0 +1,27 @@
+[
+        {
+                "group": "Admin AO",
+                "permissions": [
+                        {
+                                "resource": "*",
+                                "methods": "*",
+                                "action": "allow"
+                        }
+                ]
+        },
+        {
+                "group": "guest",
+                "permissions": [
+                        {
+                                "resource": "login/",
+                                "methods": ["POST"],
+                                "action": "allow"
+                        },
+                        {
+                                "resource": "users/",
+						        "methods": ["POST", "GET", "PUT"],
+						        "action": "deny"
+                        }
+                ]
+        }
+]

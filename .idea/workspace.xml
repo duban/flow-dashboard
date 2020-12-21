@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a33ff27f-9ae0-4c18-8433-b86fc40b4995" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/fe/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/fe/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fe/src/api/calling.js" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/api/calling.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fe/src/components/HeaderSearch/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/components/HeaderSearch/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fe/src/layout/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/layout/components/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fe/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fe/src/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/settings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fe/src/views/call-list/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/views/call-list/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fe/src/views/dashboard/admin/components/BoxCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/views/dashboard/admin/components/BoxCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fe/src/views/dashboard/admin/components/PanelGroup.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/views/dashboard/admin/components/PanelGroup.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fe/src/views/dashboard/admin/components/PieChart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/views/dashboard/admin/components/PieChart.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fe/src/views/dashboard/admin/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/views/dashboard/admin/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fe/src/views/violation/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fe/src/views/violation/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fe/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/fe/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/fe" />
+  </component>
+  <component name="ProjectId" id="1lx4TbRSPqn1rkMS9XzJMwmjxgV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a33ff27f-9ae0-4c18-8433-b86fc40b4995" name="Default Changelist" comment="" />
+      <created>1608525416308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608525416308</updated>
+      <workItem from="1608525417661" duration="371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
